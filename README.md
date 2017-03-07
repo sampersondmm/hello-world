@@ -1,2 +1,3 @@
 # hello-world
 This is my first time using github. I still don't understand what it is but I want to...
+I really like html and css. This is a way for me to take my development skills to the next level. 
